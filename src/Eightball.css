@@ -1,0 +1,12 @@
+.Eightball {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Eightball-message {
+    color: white;
+}
